@@ -1,0 +1,17 @@
+{
+  "source_url": "https://downloads.sourceforge.net/project/belisan/VOLUBILIS%20Database.xlsx",
+  "source_sha256": "b9ab74187a1c369d03bf1a0b94cdc0523edb77a4da72759ee85d81626a20fc0c",
+  "source_revision": "26.2",
+  "source_edition_date": "Jul. 2026",
+  "source_rows": 114577,
+  "bilingual_rows": 106632,
+  "skipped_without_english": 7935,
+  "skipped_non_thai_headword": 10,
+  "emitted_entries": 100827,
+  "emitted_senses": 111407,
+  "alternate_headwords_added": 4801,
+  "exact_duplicate_senses_removed": 26,
+  "term_banks": 11,
+  "part_of_speech_tags": 65,
+  "archive_sha256": "0e94572d21f27847e1a6220c9d5a769e8c7f68a4fa7f61a2b540a9cd5f9b5e8e"
+}
